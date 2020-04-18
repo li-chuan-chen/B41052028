@@ -1,3 +1,6 @@
+%B41052028
+%陳麗娟
+
 fnct='lambda';a=-4;b=4;n=24;tol=1e-6;
 xx=fseries(fnct,a,b,n,tol);
 xx1=xx(n+1:-1:2);
